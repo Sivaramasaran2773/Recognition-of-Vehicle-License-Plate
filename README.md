@@ -4,4 +4,7 @@ The primary objective of this project is to develop a robust license plate recog
 
 
 ### Flowchart for Proposed Methodology:
-![image](https://github.com/Sivaramasaran2773/Recognition-of-Vehicle-License-Plate/assets/96780921/57e22ffa-792b-42e3-98ae-ca143454475d)
+![image](https://github.com/Sivaramasaran2773/Recognition-of-Vehicle-License-Plate/assets/96780921/cfb7b582-6cc8-4f2d-aeb7-071d941a93bb)
+
+### Results:
+![image](https://github.com/Sivaramasaran2773/Recognition-of-Vehicle-License-Plate/assets/96780921/6ffa7007-2ad7-450d-b03d-d310158ffb31)
